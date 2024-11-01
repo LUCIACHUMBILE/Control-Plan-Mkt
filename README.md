@@ -1,7 +1,6 @@
 # Control-Plan-Mkt
 
-**
-Dashboard de Seguimiento y Control de Gastos de Marketing**
+**Dashboard de Seguimiento y Control de Gastos de Marketing**
 
 Este dashboard ofrece una comparativa entre los gastos presupuestados y los gastos reales por cada acción en el plan de marketing, facilitando un análisis detallado y transparente de la gestión financiera del proyecto. Incluye procesos de limpieza de datos, modelado de relaciones y agrupamientos, así como la creación de una tabla de calendario y transformaciones de datos. Su objetivo es permitir un seguimiento y control efectivos de cada acción y servir como herramienta para una mejor estimación y planificación del presupuesto del año siguiente.
 
