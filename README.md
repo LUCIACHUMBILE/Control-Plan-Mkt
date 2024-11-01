@@ -11,7 +11,7 @@ Este dashboard ofrece una comparativa entre los gastos presupuestados y los gast
 
 **Modelado de Datos y Relaciones:** Se crearon y relacionaron tablas de agrupamientos por categorías de acciones de marketing para un análisis estructurado.
 
-**Tabla Calendario: **Se añadió una tabla de fechas para facilitar la segmentación temporal y la comparación de gastos en distintos periodos.
+**Tabla Calendario:** Se añadió una tabla de fechas para facilitar la segmentación temporal y la comparación de gastos en distintos periodos.
 
 **Transformación de Datos:** Incluye transformaciones personalizadas en Power Query para adaptar los datos a las necesidades del análisis y optimizar la performance del modelo.
 
